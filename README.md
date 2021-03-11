@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**SharkPem/SharkPem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+作者目前硕士在读，兴趣及研究方向为：Computer Graphics, Rendering, Game En游戏开发。
+
+I’m currently working on my ![blog](https://www.yuque.com/sharkpem)
+
 
 Here are some ideas to get you started:
 
