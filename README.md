@@ -1,24 +1,14 @@
-### Hi there 👋
+### Hi！I‘m SharkPem.
 
-I'm a postgraduate student and pursuing for master degree.
+- 👨🏻‍🎓 I'm a postgraduate student and pursuing for master degree.
 
-My research field & interest is computer graphics, rendering and game program.
+- 👨🏻‍💻 My research field & interest is computer graphics, rendering and game program.
 
-I’m currently working on my [blog](https://www.yuque.com/sharkpem).
+- 🦈 I’m currently working on my [blog](https://www.yuque.com/sharkpem).
 
-<--
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SharkPem&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharkPem&hide=CMake,Makefile&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
