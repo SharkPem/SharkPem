@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-作者目前硕士在读，兴趣及研究方向为：Computer Graphics, Rendering, Game En游戏开发。
+I'm a postgraduate student and pursuing for master degree.
 
-I’m currently working on my [blog](https://www.yuque.com/sharkpem)
+My research field & interest is computer graphics, rendering and game program.
+
+I’m currently working on my [blog](https://www.yuque.com/sharkpem).
+
 
 
 Here are some ideas to get you started:
