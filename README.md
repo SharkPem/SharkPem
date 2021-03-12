@@ -6,7 +6,8 @@
 
 - 🦈 I’m currently working on my [blog](https://www.yuque.com/sharkpem).
 
-- ![bilibili-fill](https://user-images.githubusercontent.com/32034021/110935899-04c9b780-836b-11eb-8db0-e4c9c72ae4a7.png)
+- ![bilibili-line](https://user-images.githubusercontent.com/32034021/110936019-33479280-836b-11eb-8359-df13eb283d5a.png)
+
 
 
 
