@@ -6,9 +6,9 @@
 
 - 🦈 I’m currently working on my [blog](https://www.yuque.com/sharkpem).
 
-- 📺 I’m editing my video on [bilibili](https://space.bilibili.com/13992608).
+- 📺 I’m currently editing my video on [bilibili](https://space.bilibili.com/13992608).
 
-- 📖 I’m sharing my knowledge on [zhihu](https://www.zhihu.com/people/nickphy).
+- 📖 I’m currently sharing my knowledge on [zhihu](https://www.zhihu.com/people/nickphy).
 
 
 
