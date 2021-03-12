@@ -6,7 +6,9 @@
 
 - 🦈 I’m currently working on my [blog](https://www.yuque.com/sharkpem).
 
-- ![bilibili-line](https://user-images.githubusercontent.com/32034021/110936019-33479280-836b-11eb-8359-df13eb283d5a.png)
+- 📺 I’m editing my video on [bilibili](https://space.bilibili.com/13992608).
+
+- 📖 I’m sharing my knowledge on [zhihu](https://www.zhihu.com/people/nickphy).
 
 
 
