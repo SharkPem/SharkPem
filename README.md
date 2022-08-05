@@ -1,6 +1,6 @@
 ### Hi！I‘m SharkPem.
 
-- 👨🏻‍🎓 I'm a postgraduate student and pursuing for master degree.
+- 👨🏻‍🎓 I'm a postgraduate student[Graduation in 2023] & Java Engineer[for work] & Indie Game Developer[for myself].
 
 - 👨🏻‍💻 My research field & interest is computer graphics, rendering and game program.
 
